@@ -9,7 +9,13 @@ description: 一个行走在技术路上的探索者
 keywords: 123456
 author: 邱伟豪
 language: zh-Hans
-timezone: 0
+timezone:
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+url: https://github.com/vihoyau/qiuweihao.git
+qiuweihao: /
+permalink: :year/:month/:day/:title/
+permalink_defaults:
 
 
 
